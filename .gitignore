@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Files created when running the demonstration lessons
+handling_csv_file/generated_results.csv
+handling_json_file/updated_result.json
+handling_txt_file/generated_notes.txt
+handling_txt_file/pathlib_demo.txt
+python-pylib/exercises/exercise_output/

@@ -1,0 +1,5 @@
+test_name,status,duration_ms
+login,PASS,120
+payment,FAIL,350
+checkout,PASS,440
+Logout,FAIL,111

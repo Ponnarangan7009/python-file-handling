@@ -1,0 +1,4 @@
+Automation test report
+login: PASS, 120 ms
+payment: FAIL, 350 ms
+checkout: PASS, 440 ms

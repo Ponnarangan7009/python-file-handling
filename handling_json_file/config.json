@@ -1,0 +1,5 @@
+{
+  "base_url": "https://example.test",
+  "timeout": 10,
+  "browser": "chrome"
+}
